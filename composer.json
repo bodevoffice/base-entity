@@ -1,0 +1,15 @@
+{
+  "name": "biberltd/base-entity",
+  "license": "MIT",
+  "type": "library",
+  "description": "Base Entity Bundle",
+  "autoload": {
+    "psr-4": {
+      "BiberLtd\\Bundle\\BaseEntityBundle\\": ""
+    }
+  },
+  "require": {
+    "php": ">=5.3.3",
+    "symfony/symfony": "3.1.*"
+  }
+}

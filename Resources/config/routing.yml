@@ -1,0 +1,3 @@
+base_entity_homepage:
+    path:     /
+    defaults: { _controller: BaseEntityBundle:Default:index }
